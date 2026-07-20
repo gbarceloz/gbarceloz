@@ -1,16 +1,132 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gbarceloz/gbarceloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Gabriel Barcelos!
 
-Here are some ideas to get you started:
+### ☕ Java Backend Developer in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+🎓 Software Engineering Student <br>
+☕ Focused on Java Backend Development <br>
+🌱 Currently learning Spring Boot <br>
+🚀 Passionate about building scalable backend applications
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Backend+Developer;Currently+Learning+Spring+Boot;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+# 💻 About Me
+
+- 🎓 Software Engineering Student
+- ☕ Focused on Java Backend Development
+- 🌱 Currently learning Spring Boot
+- 💻 Passionate about Software Engineering and Backend Architecture
+- 🚀 Building projects to improve my Java skills every day
+- 📚 Always learning through practical development
+
+---
+
+# 🛠 Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,linux,idea,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gbarceloz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarceloz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gbarceloz&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+✔ Java
+
+✔ Spring Boot
+
+✔ Object-Oriented Programming
+
+✔ REST APIs
+
+✔ Maven
+
+✔ Git & GitHub
+
+✔ Linux
+
+---
+
+# 🚀 2026 Goals
+
+- ☕ Become a Java Backend Developer
+- 🌱 Master Spring Boot
+- ☁ Learn AWS Cloud
+- 🏗 Build scalable REST APIs
+- 💼 Land a Backend Developer position
+- 🌍 Work for an international technology company
+
+---
+
+# 📌 Featured Projects
+
+🔹 **Java Bank**
+
+Console banking system developed in Java.
+
+🔹 **Calculator Areas**
+
+Application for calculating geometric areas using Object-Oriented Programming.
+
+🔹 **Secret Number Game**
+
+Simple web project developed to practice programming logic.
+
+---
+
+# 📫 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/gbarceloz">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code. Learn. Improve. Repeat."*
+
+</div>
