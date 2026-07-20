@@ -113,7 +113,7 @@ Simple web project developed to practice programming logic.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/gabriel-barcelos-420aba275/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
