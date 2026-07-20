@@ -117,8 +117,8 @@ Simple web project developed to practice programming logic.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:gabrielbarceloz256@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
