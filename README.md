@@ -109,21 +109,19 @@ Simple web project developed to practice programming logic.
 
 <div align="center">
 
-<a href="https://github.com/gbarceloz">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="mailto:gabrielbarceloz256@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-barcelos-420aba275/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:gabrielbarceloz256@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://wa.me/5551991801540">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
-
----
 
 <div align="center">
 
