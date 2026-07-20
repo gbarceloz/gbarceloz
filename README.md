@@ -16,6 +16,7 @@
 ##
 
 
+
 ![](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
 
 ![](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot)
@@ -56,11 +57,7 @@ Focused on Java...
 💡 Turning ideas into code.
 
 
-<div align="center">
-
-══════════════════════════════════════════════
-
-</div>
+##
 
 
 
@@ -69,11 +66,7 @@ Focused on Java...
 
 
 
-<div align="center">
 
-══════════════════════════════════════════════
-
-</div>
 
 
 ```java
@@ -99,11 +92,7 @@ public class Gabriel {
 
 
 
-<div align="center">
-
-══════════════════════════════════════════════
-
-</div>
+##
 
 
 
